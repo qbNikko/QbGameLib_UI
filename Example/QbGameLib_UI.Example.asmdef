@@ -1,0 +1,7 @@
+﻿{
+  "name": "QbGameLib_UI.Example",
+  "rootNamespace": "QbGameLib_UI",
+  "references": [
+    "QbGameLib_UI"
+  ]
+}

@@ -1,2 +1,2 @@
-# UnityGameLib
+# QbGameLib_UI
 Набор универсального функционала, для UNITY, в часте работы с UI.

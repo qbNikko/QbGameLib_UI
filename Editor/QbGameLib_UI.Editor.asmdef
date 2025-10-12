@@ -3,5 +3,8 @@
   "rootNamespace": "QbGameLib_UI",
   "references": [
     "QbGameLib_UI"
+  ],
+  "defineConstraints": [
+    "UNITY_EDITOR"
   ]
 }
